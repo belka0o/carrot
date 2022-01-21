@@ -1,0 +1,114 @@
+body{
+    background-color: #FCF8EE;
+    color: #3B5001;
+    font-family: Rubik, Scada, Arial, sans-serif; 
+}
+
+p{
+    margin: 0px;
+}
+
+.frame_first{
+    
+    padding-left: 220px;
+    padding-top: 265px;
+    padding-bottom: 200px;
+    background-image: url(images/ManEatCarrot.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 1305px 830px;
+}
+
+.disclamer{
+    font-size: 24px;
+    letter-spacing: 3px;
+}
+
+.heading{
+    font-size: 96px;
+    font-weight: 700;
+    letter-spacing: 13px;
+}
+
+.spark_top{
+    margin-top: 46px;
+    display: inline-block;
+    background-image: url(images/Button.png);
+    width: 390px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 24px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: #3B5001;
+    text-decoration: none;
+}
+
+.frame_second{
+    padding-left: 1070px;
+    padding-top: 130px;
+    background-image: url(images/GirlWhithCarrot.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 1050px 730px;
+}
+
+.Name{
+    font-size: 72px;
+    font-weight: 700;
+    letter-spacing: 10px;
+    padding-bottom: 35px;
+}
+
+.text p{
+    font-size: 36px;
+    font-family: Scada;
+    font-weight: bold;
+    padding-top: 35px;
+}
+
+.frame_third{
+    padding-left: 220px;
+    padding-top: 240px;
+    background-image: url(images/OldManGiesCarrot.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 810px 970px;
+}
+
+.frame_fourth{
+    padding-left: 840px;
+    padding-top: 240px;
+    background-image: url(images/ManInCarrot.png);
+    background-repeat: no-repeat;
+    background-position: bottom left;
+    background-size: 540px 1330px;
+}
+
+.spark_bottom{
+    margin-top: 130px;
+    margin-left: 230px;
+    display: inline-block;
+    background-image: url(images/Button.png);
+    width: 390px;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+    font-size: 24px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    color: #3B5001;
+    text-decoration: none;
+}
+
+.footer{
+    margin-top: 195px;
+    background-color: #3B5001;
+    color: #FCF8EE;
+    font-size: 24px;
+    letter-spacing: 3px;
+    height: 55px;
+    text-align: center;
+    line-height: 55px;
+}
